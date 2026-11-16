@@ -1,2 +1,2 @@
 # Veil
-Veil is a Mac/Macbook app and files encrypter, that can be opened with Fingerprint or Password.
+A native macOS privacy app with Touch ID app protection and an encrypted file vault. Local-first, no account required. Currently in development.
